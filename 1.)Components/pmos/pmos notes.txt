@@ -1,0 +1,5 @@
+-- Dual PMOS package --
+mfg: Nexperia USA Inc.
+mpn: NX3008PBKS,115
+link: https://www.digikey.com/en/products/detail/nexperia-usa-inc/NX3008PBKS115/2779968
+price: $0.33 (single qty)

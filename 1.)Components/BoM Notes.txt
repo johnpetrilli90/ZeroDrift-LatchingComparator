@@ -1,0 +1,18 @@
+-- Pin Strips --
+https://www.digikey.com/en/products/detail/oupiin/2011-1X36G00SH032B/13252040
+
+-- Zero Drift Latching Comparator --
+Qty 1: 0.1 uF
+Qty 1: 100k
+Qty 2: 10k
+Qty 2: 1k
+Qty 1: NCS21871SN2T1G
+Qty 1: NX3008PBKS,115
+
+
+-- Zero Drift Latching Window Comparator --
+Qty 1: 0.1 uF
+Qty 6: 100k
+Qty 4: 1k
+Qty 1: NCS2333DR2G
+Qty 2: NX3008PBKS,115

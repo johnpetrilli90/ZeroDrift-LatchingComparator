@@ -1,0 +1,11 @@
+-- Single Device Package --
+mfg: ON Semiconductor
+mpn: NCS21871SN2T1G
+link: https://www.digikey.com/en/products/detail/on-semiconductor/NCS21871SN2T1G/12181252
+price: $0.62 (single qty)
+
+-- Dual Device Package --
+mfg: ON Semiconductor
+mpn: NCS2333DR2G
+link: https://www.digikey.com/en/products/detail/on-semiconductor/NCS2333DR2G/6560609
+price: $0.99 (single qty)
