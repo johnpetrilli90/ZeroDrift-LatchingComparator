@@ -61,10 +61,10 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NPKPUWBM
 
 [Document4]
 DocumentPath=..\..\..\..\..\..\..\Public\Documents\Altium\AD20\Library\General_SchLib.SchLib
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JDKARWKD
 
 [Document5]
 DocumentPath=..\..\..\..\..\..\..\Public\Documents\Altium\AD20\Library\Schlib_SMT_Capacitors.SchLib
@@ -167,33 +167,37 @@ Variation2=Designator=C3|UniqueId=\BPSVEXCK\DDIDAMPK|Kind=1|AlternatePart=
 Variation3=Designator=Rt1|UniqueId=\LFHYYWIM\USDSTORE|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[Parameter1]
-Name=organization
-Value=Analog Design Reference
+[GeneratedDocument1]
+DocumentPath=ProjectOutputs\Design Rule Check - ZeroDriftLatchComp.html
+DItemRevisionGUID=
 
-[Parameter2]
+[Parameter1]
 Name=Variant Name
 Value=STANDARD
 
-[Parameter3]
+[Parameter2]
 Name=sch
 Value=40000
 
-[Parameter4]
+[Parameter3]
 Name=rev
 Value=1
 
-[Parameter5]
+[Parameter4]
 Name=Project
 Value=ZERO DRFT LTCH CMP
 
-[Parameter6]
+[Parameter5]
 Name=PCBA
 Value=40002
 
-[Parameter7]
+[Parameter6]
 Name=PCB
 Value=40001
+
+[Parameter7]
+Name=organization
+Value=Analog Design Reference
 
 [Parameter8]
 Name=DrawnDate

@@ -1,0 +1,27 @@
+Altium Designer Pick and Place Locations
+C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\Pick Place\Pick Place for ZeroDriftLatchComp(Standard).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/11/20
+Time:       19:17
+Revision:   4106b7d5be60ae4ca25995ae176461669a471e6b
+Variant:    Standard
+Units used: mil
+
+Designator Comment          Layer    Footprint Center-X(mil) Center-Y(mil) Rotation Description                                              
+R2         1k               TopLayer 0603_RES  240.000       50.833        180      "RES SMD 1K OHM 0.1% 1/10W 0603"                         
+Vo         "Test Point PTH" TopLayer TP_-_PTH  -100.000      250.000       0        "PTH Test Point"                                         
+i-         "Test Point PTH" TopLayer TP_-_PTH  300.000       150.000       0        "PTH Test Point"                                         
+i+         "Test Point PTH" TopLayer TP_-_PTH  300.000       250.000       0        "PTH Test Point"                                         
+Q1         NX3008PBKS,115   TopLayer SOT363    120.000       54.567        270      "NX3008PBKS - 30 V, 200 mA dual P-channel Trench MOSFET" 
+nR         "Test Point PTH" TopLayer TP_-_PTH  -100.000      150.000       180      "PTH Test Point"                                         
+V+         "Test Point PTH" TopLayer TP_-_PTH  -100.000      350.000       270      "PTH Test Point"                                         
+V-         "Test Point PTH" TopLayer TP_-_PTH  300.000       350.000       0        "PTH Test Point"                                         
+R5         10k              TopLayer 0603_RES  14.676        210.364       270      "RES SMD 10K OHM 0.1% 1/10W 0603"                        
+R4         1k               TopLayer 0603_RES  -37.538       47.761        180      "RES SMD 1K OHM 0.1% 1/10W 0603"                         
+R1         1k               TopLayer 0603_RES  134.986       230.000       90       "RES SMD 1K OHM 0.1% 1/10W 0603"                         
+C1         0.1uF            TopLayer 0603_CAP  20.000        410.000       270      "CAP CER 0.1UF 50V X7R 0603"                             
+R3         10k              TopLayer 0603_RES  74.000        230.000       90       "RES SMD 10K OHM 0.1% 1/10W 0603"                        
+U1         NCS21871SN2T1G   TopLayer SOT-23-5  130.000       390.000       90       ""                                                       

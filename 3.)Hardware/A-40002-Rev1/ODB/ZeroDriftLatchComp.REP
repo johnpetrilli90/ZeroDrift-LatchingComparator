@@ -1,0 +1,88 @@
+*************************************************************
+FileName = ZeroDriftLatchComp.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\bottom_copper\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\bottom_copper\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\top_silk\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\top_silk\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\pwr\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\pwr\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\gnd\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\gnd\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\board_outline\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\board_outline\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\mechanical_13\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\mechanical_15\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\mechanical_15\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\bottom_silk\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\bottom_silk\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\top_copper\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\top_copper\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\top_assy\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\top_assy\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\bottom_assy\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\bottom_assy\attrlist
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\johnp\Documents\Projects\AnalogDesignRef\Latching Comparator\3.)Hardware\A-40002-Rev1\ODB\odb\steps\pcb\eda\data
+

@@ -1,0 +1,193 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 0.24 0.0508328 180 N R2 1k ;0=1,1=0.0374
+PRP AltMfg 'Panasonic'
+PRP AltMfg1 'Venkel'
+PRP AltMPN 'ERA-3AEB102V'
+PRP AltMPN1 'TFCR0603-10W-E-1001BT'
+PRP AVL 'DigiKey, Mouser, Newark, Avnet, Arrow, Future, Allied, TTI, Heilind, Sager, Manufacturer Direct, Venkel'
+PRP HelpURL 'G:\DATA\ISB Engineering\Electronics\AltiumWF\Libraries\Datasheets\Resistors\Yageo RT Series Thin Film Resistors.pdf'
+PRP Mfg 'Yageo'
+PRP MPN 'RT0603BRB071KL'
+PRP Power '0.1W'
+PRP Tolerance 'B-0.1%'
+PRP Value '1k'
+TOP 0 0.2695276 0.0508328 90 N 7 0 R2-1
+TOP 1 0.2104725 0.0508328 90 N 2 0 R2-2
+#
+# CMP 1
+CMP 1 0.195 0.21 90 N NT1 0.8Amax ;0=1,1=0.0374
+PRP HelpURL 'http://www.smtnet.com/library/files/upload/NetTies-and-How-to-Use-Them.pdf'
+PRP Newport_PN ''
+PRP Value '0.8Amax'
+TOP 0 0.195 0.2395276 0 N 10 0 NT1-1
+TOP 1 0.195 0.1804725 0 N 1 2 NT1-2
+#
+# CMP 2
+CMP 5 -0.1 0.25 0 N Vo Test_Point_PTH ;0=2,1=0.0000
+PRP MPN ''
+PRP Newport_PN ''
+PRP VPN ''
+TOP 0 -0.1 0.25 0 N 5 2 Vo-1
+#
+# CMP 3
+CMP 5 0.3 0.15 0 N i- Test_Point_PTH ;0=2,1=0.0000
+PRP MPN ''
+PRP Newport_PN ''
+PRP VPN ''
+TOP 0 0.3 0.15 0 N 7 1 i--1
+#
+# CMP 4
+CMP 5 0.3 0.25 0 N i+ Test_Point_PTH ;0=2,1=0.0000
+PRP MPN ''
+PRP Newport_PN ''
+PRP VPN ''
+TOP 0 0.3 0.25 0 N 8 0 i+-1
+#
+# CMP 5
+CMP 4 0.149528 0.09 90 N Q1 NX3008PBKS,115 ;0=1,1=0.0000
+PRP Mfg 'Nexperia'
+PRP MPN 'NX3008PBKS,115'
+PRP Pricing_1 '1=0.33000, 10=0.24800, 25=0.21720, 100=0.11780, 500=0.09610, 1000=0.07130 (USD)'
+PRP RoHS 'No'
+PRP Stock_1 '86588'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1727-1282-1-ND'
+TOP 0 0.149528 0.09 90 N 1 1 Q1-1
+TOP 1 0.12 0.09 90 N 4 0 Q1-2
+TOP 2 0.090472 0.09 90 N 4 2 Q1-3
+TOP 3 0.090472 0.0191339 90 N 1 0 Q1-4
+TOP 4 0.12 0.0191339 90 N 3 1 Q1-5
+TOP 5 0.149528 0.0191339 90 N 2 2 Q1-6
+#
+# CMP 6
+CMP 5 -0.1 0.15 180 N nR Test_Point_PTH ;0=2,1=0.0000
+PRP MPN ''
+PRP Newport_PN ''
+PRP VPN ''
+TOP 0 -0.1 0.15 180 N 6 1 nR-1
+#
+# CMP 7
+CMP 5 -0.1 0.35 90 N V+ Test_Point_PTH ;0=2,1=0.0000
+PRP MPN ''
+PRP Newport_PN ''
+PRP VPN ''
+TOP 0 -0.1 0.35 90 N 10 4 V+-1
+#
+# CMP 8
+CMP 5 0.3 0.35 0 N V- Test_Point_PTH ;0=2,1=0.0000
+PRP MPN ''
+PRP Newport_PN ''
+PRP VPN ''
+TOP 0 0.3 0.35 0 N 11 3 V--1
+#
+# CMP 9
+CMP 2 0.014676 0.210364 90 N R5 10k ;0=1,1=0.0374
+PRP AltMfg 'Panasonic'
+PRP AltMfg1 'Venkel'
+PRP AltMPN 'ERA-3AEB103V'
+PRP AltMPN1 'TFCR0603-10W-E-1002BT'
+PRP AVL 'DigiKey, Mouser, Newark, Avnet, Arrow, Future, Allied, TTI, Heilind, Sager, Manufacturer Direct, Venkel'
+PRP HelpURL 'G:\DATA\ISB Engineering\Electronics\AltiumWF\Libraries\Datasheets\Resistors\Yageo RT Series Thin Film Resistors.pdf'
+PRP Mfg 'Yageo'
+PRP MPN 'RT0603BRD0710KL'
+PRP Power '0.1W'
+PRP Tolerance 'B-0.1%'
+PRP Value '10k'
+TOP 0 0.014676 0.2398916 0 N 10 3 R5-1
+TOP 1 0.014676 0.1808365 0 N 3 0 R5-2
+#
+# CMP 10
+CMP 2 -0.0375384 0.0477608 180 N R4 1k ;0=1,1=0.0374
+PRP AltMfg 'Panasonic'
+PRP AltMfg1 'Venkel'
+PRP AltMPN 'ERA-3AEB102V'
+PRP AltMPN1 'TFCR0603-10W-E-1001BT'
+PRP AVL 'DigiKey, Mouser, Newark, Avnet, Arrow, Future, Allied, TTI, Heilind, Sager, Manufacturer Direct, Venkel'
+PRP HelpURL 'G:\DATA\ISB Engineering\Electronics\AltiumWF\Libraries\Datasheets\Resistors\Yageo RT Series Thin Film Resistors.pdf'
+PRP Mfg 'Yageo'
+PRP MPN 'RT0603BRB071KL'
+PRP Power '0.1W'
+PRP Tolerance 'B-0.1%'
+PRP Value '1k'
+TOP 0 -0.0080108 0.0477608 90 N 3 2 R4-1
+TOP 1 -0.0670659 0.0477608 90 N 6 0 R4-2
+#
+# CMP 11
+CMP 2 0.1349856 0.23 270 N R1 1k ;0=1,1=0.0374
+PRP AltMfg 'Panasonic'
+PRP AltMfg1 'Venkel'
+PRP AltMPN 'ERA-3AEB102V'
+PRP AltMPN1 'TFCR0603-10W-E-1001BT'
+PRP AVL 'DigiKey, Mouser, Newark, Avnet, Arrow, Future, Allied, TTI, Heilind, Sager, Manufacturer Direct, Venkel'
+PRP HelpURL 'G:\DATA\ISB Engineering\Electronics\AltiumWF\Libraries\Datasheets\Resistors\Yageo RT Series Thin Film Resistors.pdf'
+PRP Mfg 'Yageo'
+PRP MPN 'RT0603BRB071KL'
+PRP Power '0.1W'
+PRP Tolerance 'B-0.1%'
+PRP Value '1k'
+TOP 0 0.1349856 0.2004724 180 N 8 1 R1-1
+TOP 1 0.1349856 0.2595275 180 N 9 1 R1-2
+#
+# CMP 12
+CMP 0 0.02 0.41 90 N C1 0.1uF ;0=1,1=0.0374
+PRP AltMfg 'Murata'
+PRP AltMfg1 'KEMET'
+PRP AltMPN 'GRM188R71H104JA93D'
+PRP AltMPN1 'C0603C104J5RACTU'
+PRP AVL 'DigiKey, Mouser, Newark, Avnet, Arrow, Future, Allied, TTI, Heilind, Sager, Manufacturer Direct, Venkel'
+PRP Component 'CAPACITOR'
+PRP Design_Ambient_Temp_(C) ''
+PRP Design_Ripple_Current_(A) ''
+PRP Design_Vmax_RMS ''
+PRP Mfg 'Yageo'
+PRP MKS_Derate_Voltage_(_) ''
+PRP MKS_Ripple_Current_(_) ''
+PRP MKS_Temp_Below_Max_(C) ''
+PRP MPN 'CC0603JRX7R9BB104'
+PRP Temperature_Coefficient 'X7R'
+PRP Tolerance 'J-5%'
+PRP Type 'CERAMIC'
+PRP Value '0.1uF'
+PRP Vendor_ESR ''
+PRP Vendor_Max_Power_(W) ''
+PRP Vendor_Max_Temp_(C) ''
+PRP Vendor_Max_Voltage '50V'
+TOP 0 0.02 0.4395276 0 N 10 2 C1-1
+TOP 1 0.02 0.3804725 0 N 11 5 C1-2
+#
+# CMP 13
+CMP 2 0.074 0.23 270 N R3 10k ;0=1,1=0.0374
+PRP AltMfg 'Panasonic'
+PRP AltMfg1 'Venkel'
+PRP AltMPN 'ERA-3AEB103V'
+PRP AltMPN1 'TFCR0603-10W-E-1002BT'
+PRP AVL 'DigiKey, Mouser, Newark, Avnet, Arrow, Future, Allied, TTI, Heilind, Sager, Manufacturer Direct, Venkel'
+PRP HelpURL 'G:\DATA\ISB Engineering\Electronics\AltiumWF\Libraries\Datasheets\Resistors\Yageo RT Series Thin Film Resistors.pdf'
+PRP Mfg 'Yageo'
+PRP MPN 'RT0603BRD0710KL'
+PRP Power '0.1W'
+PRP Tolerance 'B-0.1%'
+PRP Value '10k'
+TOP 0 0.074 0.2004724 180 N 4 1 R3-1
+TOP 1 0.074 0.2595275 180 N 5 1 R3-2
+#
+# CMP 14
+CMP 3 0.13 0.39 270 N U1 NCS21871SN2T1G ;0=1,1=0.0000
+PRP Mfg 'ON Semiconductor'
+PRP MPN 'NCS21871SN2T1G'
+PRP Pricing_1 '2500=1.00588 (USD)'
+PRP RoHS 'No'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'C316C622F2G5TA7301-ND'
+TOP 0 0.0925984 0.3384252 270 N 5 0 U1-1
+TOP 1 0.13 0.3384252 270 N 11 4 U1-2
+TOP 2 0.1674016 0.3384252 270 N 9 0 U1-3
+TOP 3 0.1674016 0.4415748 270 N 2 1 U1-4
+TOP 4 0.0925984 0.4415748 270 N 10 1 U1-5
+#
